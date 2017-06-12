@@ -1,0 +1,19 @@
+div.TablePanel {
+	cursor: pointer;
+	user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+}
+div.TablePanel.total_p_label {
+    padding-top: 21px;
+}
+div.t-label-item-description {
+    color: #1939e1;
+    padding-right: 5px;
+}
+div.fit-to-right{
+    width:100%;
+    text-align: right;
+    
+}
